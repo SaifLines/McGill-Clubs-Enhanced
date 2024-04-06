@@ -1,9 +1,5 @@
-# McGill-Clubs-Enhanced
+# McGill Clubs Enhanced
 
-- 👋 Hi, We are @llandauro, @elafunk
-- 👀 We are interested in increasing clubs accessibility for students at McGill University
-- 🌱 We are currently studying Computer Science at McGill University
-- 💞️ We are looking to collaborate on ...
-- 📫 How to reach us: evragusa@gmail.com
-- ⚡ Fun fact: We are Latino, Tunisian and Indian CompSci baddies!
+McGill Clubs Enhanced is a platform that makes McGill clubs more accessible to students. There is a lot of Clubs in McGill, all of them are offering interesting events and fun activities to the student community, but they are just too many to handle. not with MCE. 
 
+An app that scrapes through McGill clubs newsletters, extracts the events that are organized by the clubs (event title, description, time, location, price if applicable), displays the events in a calendar view (think google calendar with events blocks). 
